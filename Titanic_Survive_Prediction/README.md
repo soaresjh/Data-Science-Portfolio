@@ -4,3 +4,24 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
 In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
+## Repository Structure
+
+### Problem Analytics notebook
+
+Analytical analysis of the _registration.csv_ dataset. 
+
+### Run Script notebook
+
+Output of the scripts, in order:
+
+* pre_process.py
+* cabin_classify.py
+* train_and_test.py
+
+### Problem Solution notebook
+
+Solution based on the model trained in the _registration.csv_ dataset
+
+### Solution Analytics notebook
+
+Analytical analysis of the solution. 
