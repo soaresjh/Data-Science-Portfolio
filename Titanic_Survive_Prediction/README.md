@@ -12,6 +12,8 @@ Analytical analysis of the _registration.csv_ dataset.
 
 ### Run Script notebook
 
+_(start here)_ 
+
 Output of the scripts, in order:
 
 * pre_process.py
