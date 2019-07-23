@@ -6,13 +6,14 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 
 ## Repository Structure
 
-### Problem Analytics notebook
+### Problem Analytics notebook 
+(Problem_Analytics.ipynb)
 
 Analytical analysis of the _registration.csv_ dataset. 
 
-### Run Script notebook
-
-_(start here)_ 
+### Run Script notebook ()
+(run_script.ipynb)
+(**STAR HERE**)
 
 Output of the scripts, in order:
 
@@ -21,9 +22,11 @@ Output of the scripts, in order:
 * train_and_test.py
 
 ### Problem Solution notebook
+(problem_solution.ipynb)
 
 Solution based on the model trained in the _registration.csv_ dataset
 
 ### Solution Analytics notebook
+(Solution_Analytics.ipynb)
 
 Analytical analysis of the solution. 
